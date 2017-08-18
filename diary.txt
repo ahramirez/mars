@@ -1,3 +1,9 @@
 I'm pretty much f***cked that's how I see it.
 
 now i feel better.
+
+stuff to change to adapt swc for pmi:
+example project carried through all teaching- unix, python, git, sql-
+then put it all together in an example.
+add in more kernals teaching for other tools.
+big picture how to work in environment.
